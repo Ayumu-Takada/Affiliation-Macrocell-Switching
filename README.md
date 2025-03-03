@@ -4,7 +4,8 @@ Ayumu Takada
 
 ## Overview
 
-アップリンクの分散アンテナシステムにおいて、ピコセルの帰属マクロセルを切り替える方式
+分散アンテナ型セルシステムにおけるアップリンクのピコセル帰属切り替えの検討![image](https://github.com/user-attachments/assets/472abed9-e3b5-4c08-9a37-6b04e5e085d5)
+
 
 ## Usage
 
