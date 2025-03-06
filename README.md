@@ -8,28 +8,11 @@ Ayumu Takada
 
 ## Features
 
- ###フォルダ構成###
-
-　　シミュレーション
-    |
-    |--ソースコード
-         |	   |
-         |    |-- single_3user_choosebetter_d50.m							(1)
-         |                     |
-         |                     |-- add_TDL_A_fading.m, add_TDL_D_fading.m                       (2-1)
-         |                     |
-         |                     |-- create_bs_coordinate.m, create_user_coordinate.m             (2-2)
-         |                     |
-         |                     |-- Antenna_select.m                                             (2-3)
-         |                     |
-         |                     |-- calculate_estimated_throughput_single_PF.m                   (2-4)
-         |                     |
-         |                     |-- calculate_throughput_single_PF.m                             (2-5)
-         |                     |
-         |                     |-- TimeIndicator.m                                              (2-6)
-         |
-         |
-         |-- Figure_plot     (3)    
+###フォルダ構成###
+インコード：single_3user_choosebetter_d50.m(1)
+関数コード：add_TDL_A_fading.m, add_TDL_D_fading.m(2-1), create_bs_coordinate.m, create_user_coordinate.m(2-2), Antenna_select.m(2-3), calculate_estimated_throughput_single_PF.m(2-4), calculate_throughput_single_PF.m(2-5),
+ TimeIndicator.m(2-6)
+グラフプロット：Figure_plot(3)    
 
 
 ## Usage
